@@ -108,6 +108,11 @@ applyTo: '**/*.ts,**/*.tsx'
 
 Firebase provides authentication, database, and storage. Only needed when using these features.
 
+**Setup Documentation:**
+
+- **General Firebase setup**: See `FIREBASE_SETUP.md` for complete Firebase configuration guide
+- **Firebase App Hosting secrets**: See `FIREBASE_SECRETS_SETUP.md` for production deployment secrets management
+
 **Setup Commands:**
 
 - `npm run test-firebase` - **ALWAYS run first** to diagnose what needs fixing
